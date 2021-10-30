@@ -27,7 +27,7 @@ git clone git@github.com:deeplearningunb/FacEmotions.git
 ```
 
 Entrar na pasta do projeto:
-> cd FacEmotion
+```cd FacEmotion```
 
 Instalar as dependencias do projeto:
 > pip3 install -r requirements.txt
